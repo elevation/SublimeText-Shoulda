@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[it { ${1:should} ${2:have_many}(:${3:$SELECTION}) }]]></content>
+    <tabTrigger>itshhm</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>ActiveRecord - Have Many</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[it { ${1:should} ${2:belong_to}(:${3:$SELECTION}) }]]></content>
+    <tabTrigger>itshbt</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>ActiveRecord - Belongs To</description>
+</snippet>

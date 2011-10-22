@@ -1,0 +1,7 @@
+.DS_Store
+.bundle
+.console_history
+db/*.sqlite3
+log/*.log
+tmp/
+public/system/

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[it { ${1:should} ${2:have_many}(:${3:$SELECTION}).through(:${4:MODEL}) }]]></content>
+    <tabTrigger>itshhmt</tabTrigger>
+    <scope>source.ruby</scope>
+    <description>ActiveRecord - Have Many Through</description>
+</snippet>
